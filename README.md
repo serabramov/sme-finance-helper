@@ -1,67 +1,34 @@
-# SME Finance Helper
+# SME Finance Helper — Public Project Overview
 
-SME Finance Helper is a simple web app for small business owners, freelancers, and self-employed professionals.
+Practical finance tools and business decision support, created and maintained by [Serghei Abramov](https://sergheiabramov.com).
 
-It helps users calculate and understand basic business financial indicators such as:
+**Live website:** https://smefinancehelper.com  
+**Portfolio:** https://github.com/serabramov/MyProjects
 
-- Profitability
-- Gross margin
-- Net margin
-- Break-even point
-- Simple ROI
-- Payback period
-- Cash flow
-- Business health score
+## Repository role
 
-## Live App
+This is public documentation, not deployable application source. The working source remains in the owner's private `biz-simple-shine` repository; no source was moved or duplicated here.
 
-https://smefinancehelper.com
+## Purpose and features
 
-## Purpose
+For small-business owners, freelancers and self-employed professionals:
 
-The goal of this project is to make basic business finance easier to understand and more practical for small businesses. The app combines simple financial calculators with educational resources, examples, and practical explanations.
+- Profitability, break-even, ROI/payback and cash-flow calculators.
+- Advanced financial analysis tools, practical examples and Financial Health Check.
+- Smart Business Check: browser-only recommendations and reviewed email-app/copy actions. The visitor must send the email; submissions are not hosted.
+- Aletheor Space: rent/buy/share comparisons, monthly budgets and stress scenarios.
+- Business Solutions, illustrative system previews and educational resources.
 
-## Features
+Previews use illustrative data, not client outcomes or confirmed integrations. [SME Financepedia](https://smefinancepedia.com) explains finance problems and terminology; SME Finance Helper calculates the numbers. They are distinct projects.
 
-- Profitability Calculator
-- Break-even Calculator
-- ROI & Payback Calculator
-- Cash Flow Calculator
-- Business Health Score
-- Resources section with practical guides
-- About, Contact, Privacy, and Disclaimer pages
-- Custom domain
-- Google Analytics and Search Console setup
+## Verified application stack
 
-## Resources
+React 19, TanStack Start, TypeScript, Vite 7, Tailwind CSS 4 and tested calculation helpers. This documentation-only repository has no application installation instructions.
 
-The app includes educational guides about:
+## Creator and rights
 
-- Gross Margin for Small Business
-- Break-even Point Explained
-- Simple ROI and Payback Period
-- Cash Flow vs Profit
-- Business Health Score Explained
+**Serghei Abramov — creator and maintainer** · [Personal website](https://sergheiabramov.com) · [GitHub](https://github.com/serabramov)
 
-## Target Users
+AI-assisted development includes Lovable. Third-party libraries and assets retain their rights. No open-source license is granted by this README; public visibility and copyright notices do not prevent copying.
 
-This project is designed for:
-
-- Small business owners
-- Freelancers
-- Self-employed professionals
-- Small shops
-- Service businesses
-- Small producers
-- Early-stage business owners
-
-## Disclaimer
-
-This project is for educational and planning purposes only. It does not provide accounting, tax, legal, investment, or financial advice. It does not replace a qualified accountant, tax advisor, lawyer, or financial consultant.
-
-## Creator
-
-Created by Serghei Abramov.
-
-GitHub: https://github.com/serabramov  
-Website: https://sergheiabramov.com
+Educational and planning purposes only; not accounting, tax, legal, investment or financial advice.
